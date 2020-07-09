@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi I'm pecus 👋
 
+I'm the CTO of [modo](https://github.com/madebymodo), a small frontend development studio I founded with very talented folks.
+
+I work on Design Systems and Web Performance. Ask me about them or find me on twitter at @pecus
 <!--
-**therealpecus/therealpecus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
