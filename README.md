@@ -2,7 +2,7 @@
 
 I'm the CTO of [modo](https://github.com/madebymodo), a small frontend development studio I founded with very talented folks.
 
-I work on Design Systems and Web Performance. Ask me about them or find me on twitter at @pecus
+I work on Design Systems and Web Performance. Ask me about them or find me on bluesky at @pecus.it
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
